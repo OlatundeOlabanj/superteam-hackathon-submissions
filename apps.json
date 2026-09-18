@@ -375,5 +375,39 @@
         "github": "https://github.com/ranimth0707"
       }
     ]
+  },
+  {
+    "id": "family-cookie",
+    "title": "Family Cookie",
+    "shortDescription": "A savings goal wallet on Cookie Chain, secured by a device passkey instead of a routine wallet click.",
+    "description": "Family Cookie lets you create a savings goal with a target amount and deadline, fund a personal holding account, then move money into the goal using a real secp256r1 device passkey verified on-chain through Solana's own precompile, not a routine wallet signature. No swap, no price feed, no trading logic anywhere in the program.",
+    "category": "Wallet",
+    "tags": [
+      "Wallet",
+      "Savings",
+      "Passkey",
+      "WebAuthn"
+    ],
+    "links": {
+      "website": "https://family-cookie-tjscode.netlify.app",
+      "demo": null,
+      "github": "https://github.com/OlatundeOlabanj/family-cookie",
+      "x": "https://x.com/JonahTunde/status/2101018853224366529",
+      "docs": "https://github.com/OlatundeOlabanj/family-cookie/blob/main/README.md",
+      "video": "https://youtu.be/T_jXvVcpp4Y"
+    },
+    "media": {
+      "logo": "https://raw.githubusercontent.com/cookiechain/superteam-hackathon-submissions/main/logos/family-cookie.png",
+      "banner": null,
+      "screenshots": []
+    },
+    "team": [
+      {
+        "name": "Tunde",
+        "role": "Developer",
+        "x": "https://x.com/JonahTunde",
+        "github": "https://github.com/OlatundeOlabanj"
+      }
+    ]
   }
 ]
