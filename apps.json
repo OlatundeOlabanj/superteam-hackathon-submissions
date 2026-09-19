@@ -399,7 +399,12 @@
     "media": {
       "logo": "https://raw.githubusercontent.com/cookiechain/superteam-hackathon-submissions/main/logos/family-cookie.png",
       "banner": null,
-      "screenshots": []
+      "screenshots": [
+        "https://raw.githubusercontent.com/cookiechain/superteam-hackathon-submissions/main/screenshots/family-cookie/01-hero.png",
+        "https://raw.githubusercontent.com/cookiechain/superteam-hackathon-submissions/main/screenshots/family-cookie/02-create-goal.png",
+        "https://raw.githubusercontent.com/cookiechain/superteam-hackathon-submissions/main/screenshots/family-cookie/03-contribute.png",
+        "https://raw.githubusercontent.com/cookiechain/superteam-hackathon-submissions/main/screenshots/family-cookie/04-recurring.png"
+      ]
     },
     "team": [
       {
